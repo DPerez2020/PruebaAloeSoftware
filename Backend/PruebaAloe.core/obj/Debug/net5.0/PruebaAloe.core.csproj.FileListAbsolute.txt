@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\PruebaAloe\PruebaAloe.core\bin\Debug\net5.0\PruebaAloe.core.deps.json
+C:\Users\HP\source\repos\PruebaAloe\PruebaAloe.core\bin\Debug\net5.0\PruebaAloe.core.dll
+C:\Users\HP\source\repos\PruebaAloe\PruebaAloe.core\bin\Debug\net5.0\ref\PruebaAloe.core.dll
+C:\Users\HP\source\repos\PruebaAloe\PruebaAloe.core\bin\Debug\net5.0\PruebaAloe.core.pdb
+C:\Users\HP\source\repos\PruebaAloe\PruebaAloe.core\obj\Debug\net5.0\PruebaAloe.core.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\PruebaAloe\PruebaAloe.core\obj\Debug\net5.0\PruebaAloe.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PruebaAloe\PruebaAloe.core\obj\Debug\net5.0\PruebaAloe.core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PruebaAloe\PruebaAloe.core\obj\Debug\net5.0\PruebaAloe.core.AssemblyInfo.cs
+C:\Users\HP\source\repos\PruebaAloe\PruebaAloe.core\obj\Debug\net5.0\PruebaAloe.core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PruebaAloe\PruebaAloe.core\obj\Debug\net5.0\PruebaAloe.core.dll
+C:\Users\HP\source\repos\PruebaAloe\PruebaAloe.core\obj\Debug\net5.0\ref\PruebaAloe.core.dll
+C:\Users\HP\source\repos\PruebaAloe\PruebaAloe.core\obj\Debug\net5.0\PruebaAloe.core.pdb
